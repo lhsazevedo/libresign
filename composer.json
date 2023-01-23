@@ -20,7 +20,7 @@
     "phpunit/phpunit": "^9.5",
     "roave/security-advisories": "dev-latest",
     "symfony/yaml": "^5.4",
-    "vimeo/psalm": "^4.25"
+    "vimeo/psalm": "^5.6"
   },
   "config": {
     "autoloader-suffix": "Libresign",
